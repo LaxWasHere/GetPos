@@ -8,7 +8,6 @@ import org.bukkit.plugin.PluginDescriptionFile;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public class GetPos extends JavaPlugin {
-	public String prefix = "[Headz]";
 
     @Override
     public void onEnable() {
