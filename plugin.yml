@@ -1,0 +1,8 @@
+name: GetPos
+version: 1.0
+main: com.laxwashere.GetPos.GetPos
+author: LaxWasHere
+commands:
+    gpos:
+        description: Show someones XYZ coordinate.
+        aliases: gp
